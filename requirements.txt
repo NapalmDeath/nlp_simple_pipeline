@@ -1,0 +1,10 @@
+spacy
+bert-extractive-summarizer
+transformers
+neuralcoref
+navec
+slovnet
+ipymarkup
+razdel
+yargy
+pymorphy2
