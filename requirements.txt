@@ -8,3 +8,10 @@ ipymarkup
 razdel
 yargy
 pymorphy2
+dostoevsky
+spacytextblob
+stanza
+polyglot
+pyicu
+morfessor
+pycld2
